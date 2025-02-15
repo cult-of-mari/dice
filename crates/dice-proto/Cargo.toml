@@ -1,0 +1,8 @@
+[package]
+name = "dice-proto"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+binrw.workspace = true
+derive_more.workspace = true

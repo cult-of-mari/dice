@@ -1,0 +1,9 @@
+[package]
+name = "dice-codec"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+binrw.workspace = true
+dice-proto.workspace = true
+tokio-util.workspace = true
