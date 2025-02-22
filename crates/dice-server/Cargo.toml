@@ -10,5 +10,6 @@ crossbeam-channel.workspace = true
 dice-codec.workspace = true
 dice-proto.workspace = true
 futures-util.workspace = true
+modular-bitfield = { version = "0.11.2", default-features = false }
 tokio.workspace = true
 tokio-util.workspace = true
